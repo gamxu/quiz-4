@@ -9,12 +9,42 @@
     "username": "user1",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false,
-    "money": 1000
+    "money": 3000
   },
   {
     "username": "user2",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false,
     "money": 500
+  },
+  {
+    "username": "gamxuAdmin",
+    "password": "$2b$12$y92iy9fAiu3xWiirnSvssOzf8Uq3b77UFTGYJyIt1pOuRw3dCz/9.",
+    "isAdmin": true,
+    "money": null
+  },
+  {
+    "username": "gamxuCustomer",
+    "password": "$2b$12$r7SEIdZk/ntIiXeA7nDWveelDJJkNPevwuWkCAOhhAYqqmSfWsnQy",
+    "isAdmin": false,
+    "money": 0
+  },
+  {
+    "username": "newadmin",
+    "password": "$2b$12$PbQS05I3ClrDDJ4E08izrOInwLbQpyODuvvPJZV5yd3GvyeblHA5q",
+    "isAdmin": true,
+    "money": null
+  },
+  {
+    "username": "newCust",
+    "password": "$2b$12$yo0K2Y075dQqVd76ehVXzOC5a.Ge7zCs6S/aS0c53FVvn5TfKpM2q",
+    "isAdmin": false,
+    "money": 0
+  },
+  {
+    "username": "test",
+    "password": "$2b$12$BTYa/ElCWQXv2XWUa18EWeegezqEMFhRkEnBOZ0Vuc9DLzFsges9O",
+    "isAdmin": false,
+    "money": 0
   }
 ]
